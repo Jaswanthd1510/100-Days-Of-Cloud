@@ -18,9 +18,12 @@ Each day's entry includes the task objective, the solution (commands/scripts), a
 ---
 
 ## 📂 Repository Structure
-I have organized the repository as follows:
-- **Daily Logs:** A quick summary of progress in the table below.
-- **Detailed Solutions:** Each day will have its own notes or script files (e.g., linked in the table).
+I have organized the repository by Cloud Provider to separate the 50 days of AWS and 50 days of Azure tasks:
+
+- **Daily Log:** A high-level summary of progress in the table below.
+- **Detailed Solutions:**
+  - `AWS/`: Contains solutions, scripts, and notes for AWS-specific days.
+  - `Azure/`: Contains solutions, scripts, and notes for Azure-specific days.
 
 ---
 
@@ -28,7 +31,7 @@ I have organized the repository as follows:
 
 | Day | Topic / Task Name | Tech Stack | Status | Link to Solution |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | [Pending Day 1 Task] | AWS/Azure | ⏳ | [View Solution](#) |
+| **01** | AWS Key Pair Creation | AWS EC2 | ✅ | [View Solution](./AWS/day01.md) |
 | **02** | ... | ... | ⏳ | ... |
 | **03** | ... | ... | ⏳ | ... |
 | ... | ... | ... | ... | ... |
