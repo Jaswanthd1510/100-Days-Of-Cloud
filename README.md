@@ -32,7 +32,7 @@ I have organized the repository by Cloud Provider to separate the 50 days of AWS
 | Day | Topic / Task Name | Tech Stack | Status | Link to Solution |
 | :---: | :--- | :---: | :---: | :---: |
 | **01** | AWS Key Pair Creation | AWS EC2 | ✅ | [View Solution](./AWS/day01.md) |
-| **02** | ... | ... | ⏳ | ... |
+| **02** | AWS Security Groups | AWS EC2 | ✅ | [View Solution](./AWS/day02.md) |
 | **03** | ... | ... | ⏳ | ... |
 | ... | ... | ... | ... | ... |
 | **100** | Final Challenge | Cloud | ⏳ | ... |
