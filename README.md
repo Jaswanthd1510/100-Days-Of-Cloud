@@ -29,13 +29,23 @@ I have organized the repository by Cloud Provider to separate the 50 days of AWS
 
 ## 📊 Progress Tracker
 
+### 🔶 AWS Track (Days 1–50)
 | Day | Topic / Task Name | Tech Stack | Status | Link to Solution |
 | :---: | :--- | :---: | :---: | :---: |
 | **01** | AWS Key Pair Creation | AWS EC2 | ✅ | [View Solution](./AWS/day01.md) |
 | **02** | AWS Security Groups | AWS EC2 | ✅ | [View Solution](./AWS/day02.md) |
-| **03** | ... | ... | ⏳ | ... |
+| **03** | AWS Subnet Creation | AWS VPC | ✅ | [View Solution](./AWS/day03.md) |
+| **04** | ... | ... | ⏳ | ... |
 | ... | ... | ... | ... | ... |
-| **100** | Final Challenge | Cloud | ⏳ | ... |
+| **50** | AWS Capstone | AWS | ⏳ | ... |
+
+### 🔷 Azure Track (Days 51–100)
+| Day | Topic / Task Name | Tech Stack | Status | Link to Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| **51** | [Pending Start] | Azure | ⏳ | ... |
+| **52** | ... | ... | ⏳ | ... |
+| ... | ... | ... | ... | ... |
+| **100** | Azure Capstone | Azure | ⏳ | ... |
 
 *(Legend: ✅ = Completed, ⏳ = In Progress, ⏭️ = Skipped)*
 
