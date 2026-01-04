@@ -35,7 +35,7 @@ I have organized the repository by Cloud Provider to separate the 50 days of AWS
 | **01** | AWS Key Pair Creation | AWS EC2 | ✅ | [View Solution](./AWS/day01.md) |
 | **02** | AWS Security Groups | AWS EC2 | ✅ | [View Solution](./AWS/day02.md) |
 | **03** | AWS Subnet Creation | AWS VPC | ✅ | [View Solution](./AWS/day03.md) |
-| **04** | ... | ... | ⏳ | ... |
+| **04** | AWS Elastic IP Allocation | AWS EC2 (Network) | ✅ | [View Solution](./AWS/day04.md) |
 | ... | ... | ... | ... | ... |
 | **50** | AWS Capstone | AWS | ⏳ | ... |
 
