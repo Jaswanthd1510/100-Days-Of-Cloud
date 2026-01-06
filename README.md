@@ -37,6 +37,7 @@ I have organized the repository by Cloud Provider to separate the 50 days of AWS
 | **03** | AWS Subnet Creation | AWS VPC | ✅ | [View Solution](./AWS/day03.md) |
 | **04** | AWS Elastic IP Allocation | AWS EC2 (Network) | ✅ | [View Solution](./AWS/day04.md) |
 | **05** | AWS EBS Volume Creation | AWS EBS (Storage) | ✅ | [View Solution](./AWS/day05.md) |
+| **06** | Launch EC2 Instance | AWS EC2 (Compute) | ✅ | [View Solution](./AWS/day06.md) |
 | **50** | AWS Capstone | AWS | ⏳ | ... |
 
 ### 🔷 Azure Track (Days 51–100)
