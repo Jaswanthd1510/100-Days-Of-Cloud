@@ -42,6 +42,7 @@ I have organized the repository by Cloud Provider to separate the 50 days of AWS
 | **08** | Enable EC2 Stop Protection | AWS EC2 (Security) | ✅ | [View Solution](./AWS/day08.md) |
 | **09** | Enable EC2 Termination Protection | AWS EC2 (Security) | ✅ | [View Solution](./AWS/day09.md) |
 | **10** | Attach Elastic IP | AWS EC2 (Network) | ✅ | [View Solution](./AWS/day10.md) |
+| **11** | Attach ENI to Instance | AWS VPC (Network) | ✅ | [View Solution](./AWS/day11.md) |
 | **50** | AWS Capstone | AWS | ⏳ | ... |
 
 ### 🔷 Azure Track (Days 51–100)
