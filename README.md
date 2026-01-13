@@ -40,6 +40,7 @@ I have organized the repository by Cloud Provider to separate the 50 days of AWS
 | **06** | Launch EC2 Instance | AWS EC2 (Compute) | ✅ | [View Solution](./AWS/day06.md) |
 | **07** | Resize EC2 Instance | AWS EC2 (Compute) | ✅ | [View Solution](./AWS/day07.md) |
 | **08** | Enable EC2 Stop Protection | AWS EC2 (Security) | ✅ | [View Solution](./AWS/day08.md) |
+| **09** | Enable EC2 Termination Protection | AWS EC2 (Security) | ✅ | [View Solution](./AWS/day09.md) |
 | **50** | AWS Capstone | AWS | ⏳ | ... |
 
 ### 🔷 Azure Track (Days 51–100)
