@@ -50,6 +50,7 @@ I have organized the repository by Cloud Provider to separate the 50 days of AWS
 | **16** | Create IAM User | AWS IAM (Security) | ✅ | [View Solution](./AWS/day16.md) |
 | **17** | Create IAM Group | AWS IAM (Security) | ✅ | [View Solution](./AWS/day17.md) |
 | **18** | Create IAM Policy | AWS IAM (Security) | ✅ | [View Solution](./AWS/day18.md) |
+| **19** | Attach Policy to User | AWS IAM (Security) | ✅ | [View Solution](./AWS/day19.md) |
 | **50** | AWS Capstone | AWS | ⏳ | ... |
 
 ### 🔷 Azure Track (Days 51–100)
