@@ -46,6 +46,7 @@ I have organized the repository by Cloud Provider to separate the 50 days of AWS
 | **12** | Attach EBS Volume | AWS EBS (Storage) | ✅ | [View Solution](./AWS/day12.md) |
 | **13** | Create Custom AMI | AWS EC2 (Images) | ✅ | [View Solution](./AWS/day13.md) |
 | **14** | Terminate EC2 Instance | AWS EC2 (Lifecycle) | ✅ | [View Solution](./AWS/day14.md) |
+| **15** | Create EBS Snapshot | AWS EBS (Backup) | ✅ | [View Solution](./AWS/day15.md) |
 | **50** | AWS Capstone | AWS | ⏳ | ... |
 
 ### 🔷 Azure Track (Days 51–100)
