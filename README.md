@@ -53,6 +53,7 @@ I have organized the repository by Cloud Provider to separate the 50 days of AWS
 | **19** | Attach Policy to User | AWS IAM (Security) | ✅ | [View Solution](./AWS/day19.md) |
 | **20** | Create IAM Role | AWS IAM (Security) | ✅ | [View Solution](./AWS/day20.md) |
 | **21** | Launch EC2 & Attach EIP | AWS EC2 (Network) | ✅ | [View Solution](./AWS/day21.md) |
+| **22** | EC2 User Data & Root Access | AWS EC2 (Automation) | ✅ | [View Solution](./AWS/day22.md) |
 | **50** | AWS Capstone | AWS | ⏳ | ... |
 
 ### 🔷 Azure Track (Days 51–100)
