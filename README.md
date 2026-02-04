@@ -56,6 +56,7 @@ I have organized the repository by Cloud Provider to separate the 50 days of AWS
 | **22** | EC2 User Data & Root Access | AWS EC2 (Automation) | ✅ | [View Solution](./AWS/day22.md) |
 | **23** | Migrate S3 Bucket Data | AWS S3 (Storage) | ✅ | [View Solution](./AWS/day23.md) |
 | **24** | Setup Application Load Balancer | AWS ELB (Networking) | ✅ | [View Solution](./AWS/day24.md) |
+| **25** | Create CloudWatch Alarm | AWS CloudWatch (Monitoring) | ✅ | [View Solution](./AWS/day25.md) |
 | **50** | AWS Capstone | AWS | ⏳ | ... |
 
 ### 🔷 Azure Track (Days 51–100)
